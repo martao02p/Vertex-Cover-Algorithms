@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/vertexCoverAlgorithms.dir/main.cpp.o -o vertexCoverAlgorithms 

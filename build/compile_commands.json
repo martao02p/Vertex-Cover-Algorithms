@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/marta/Documents/vertexCoverAlgorithms/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/vertexCoverAlgorithms.dir/main.cpp.o -c /home/marta/Documents/vertexCoverAlgorithms/main.cpp",
+  "file": "/home/marta/Documents/vertexCoverAlgorithms/main.cpp"
+}
+]
