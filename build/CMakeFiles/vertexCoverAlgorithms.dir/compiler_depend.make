@@ -190,6 +190,11 @@ CMakeFiles/vertexCoverAlgorithms.dir/main.cpp.o: /home/marta/Documents/vertexCov
   /usr/include/c++/12.2.0/limits \
   /usr/include/c++/12.2.0/ctime \
   /usr/include/c++/12.2.0/bits/parse_numbers.h \
+  /usr/include/c++/12.2.0/fstream \
+  /usr/include/c++/12.2.0/bits/codecvt.h \
+  /usr/include/c++/12.2.0/x86_64-pc-linux-gnu/bits/basic_file.h \
+  /usr/include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++io.h \
+  /usr/include/c++/12.2.0/bits/fstream.tcc \
   /home/marta/Documents/vertexCoverAlgorithms/randomGraph.h \
   /usr/include/c++/12.2.0/random \
   /usr/include/c++/12.2.0/cmath \
@@ -300,7 +305,6 @@ CMakeFiles/vertexCoverAlgorithms.dir/main.cpp.o: /home/marta/Documents/vertexCov
   /usr/include/c++/12.2.0/x86_64-pc-linux-gnu/bits/time_members.h \
   /usr/include/c++/12.2.0/x86_64-pc-linux-gnu/bits/messages_members.h \
   /usr/include/libintl.h \
-  /usr/include/c++/12.2.0/bits/codecvt.h \
   /usr/include/c++/12.2.0/bits/locale_facets_nonio.tcc \
   /usr/include/c++/12.2.0/bits/locale_conv.h \
   /usr/include/c++/12.2.0/iomanip \
@@ -381,10 +385,6 @@ CMakeFiles/vertexCoverAlgorithms.dir/main.cpp.o: /home/marta/Documents/vertexCov
   /usr/include/c++/12.2.0/deque \
   /usr/include/c++/12.2.0/bits/stl_deque.h \
   /usr/include/c++/12.2.0/bits/deque.tcc \
-  /usr/include/c++/12.2.0/fstream \
-  /usr/include/c++/12.2.0/x86_64-pc-linux-gnu/bits/basic_file.h \
-  /usr/include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++io.h \
-  /usr/include/c++/12.2.0/bits/fstream.tcc \
   /usr/include/c++/12.2.0/list \
   /usr/include/c++/12.2.0/bits/stl_list.h \
   /usr/include/c++/12.2.0/bits/list.tcc \
@@ -479,10 +479,6 @@ CMakeFiles/vertexCoverAlgorithms.dir/main.cpp.o: /home/marta/Documents/vertexCov
 /usr/include/c++/12.2.0/bits/list.tcc:
 
 /usr/include/c++/12.2.0/bits/stl_list.h:
-
-/usr/include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++io.h:
-
-/usr/include/c++/12.2.0/x86_64-pc-linux-gnu/bits/basic_file.h:
 
 /usr/include/c++/12.2.0/bits/deque.tcc:
 
@@ -580,10 +576,6 @@ CMakeFiles/vertexCoverAlgorithms.dir/main.cpp.o: /home/marta/Documents/vertexCov
 
 /usr/include/c++/12.2.0/bits/fs_path.h:
 
-/usr/include/c++/12.2.0/bits/codecvt.h:
-
-/usr/include/c++/12.2.0/bits/fs_fwd.h:
-
 /usr/include/c++/12.2.0/filesystem:
 
 /usr/include/signal.h:
@@ -603,10 +595,6 @@ CMakeFiles/vertexCoverAlgorithms.dir/main.cpp.o: /home/marta/Documents/vertexCov
 /usr/include/c++/12.2.0/bits/locale_facets_nonio.h:
 
 /usr/include/c++/12.2.0/bits/gslice.h:
-
-/usr/include/c++/12.2.0/fstream:
-
-/usr/include/c++/12.2.0/bits/valarray_after.h:
 
 /usr/include/c++/12.2.0/queue:
 
@@ -651,6 +639,16 @@ CMakeFiles/vertexCoverAlgorithms.dir/main.cpp.o: /home/marta/Documents/vertexCov
 /usr/include/c++/12.2.0/bits/stl_deque.h:
 
 /usr/include/c++/12.2.0/bits/shared_ptr.h:
+
+/usr/include/c++/12.2.0/bits/unique_ptr.h:
+
+/usr/include/c++/12.2.0/bits/align.h:
+
+/usr/include/c++/12.2.0/bits/stl_raw_storage_iter.h:
+
+/usr/include/c++/12.2.0/memory:
+
+/usr/include/c++/12.2.0/bits/stream_iterator.h:
 
 /usr/include/c++/12.2.0/bits/stl_queue.h:
 
@@ -1010,8 +1008,6 @@ CMakeFiles/vertexCoverAlgorithms.dir/main.cpp.o: /home/marta/Documents/vertexCov
 
 /usr/include/bits/typesizes.h:
 
-/usr/include/c++/12.2.0/bits/stl_raw_storage_iter.h:
-
 /usr/include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++locale.h:
 
 /usr/include/bits/posix1_lim.h:
@@ -1172,6 +1168,18 @@ CMakeFiles/vertexCoverAlgorithms.dir/main.cpp.o: /home/marta/Documents/vertexCov
 
 /usr/include/c++/12.2.0/bits/parse_numbers.h:
 
+/usr/include/c++/12.2.0/bits/valarray_after.h:
+
+/usr/include/c++/12.2.0/fstream:
+
+/usr/include/c++/12.2.0/bits/fs_fwd.h:
+
+/usr/include/c++/12.2.0/bits/codecvt.h:
+
+/usr/include/c++/12.2.0/x86_64-pc-linux-gnu/bits/basic_file.h:
+
+/usr/include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++io.h:
+
 /usr/include/c++/12.2.0/random:
 
 /usr/include/c++/12.2.0/cmath:
@@ -1281,11 +1289,3 @@ CMakeFiles/vertexCoverAlgorithms.dir/main.cpp.o: /home/marta/Documents/vertexCov
 /usr/include/c++/12.2.0/array:
 
 /usr/include/c++/12.2.0/iterator:
-
-/usr/include/c++/12.2.0/bits/align.h:
-
-/usr/include/c++/12.2.0/bits/stream_iterator.h:
-
-/usr/include/c++/12.2.0/memory:
-
-/usr/include/c++/12.2.0/bits/unique_ptr.h:

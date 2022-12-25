@@ -135,6 +135,10 @@ CMakeFiles/vertexCoverAlgorithms.dir/main.cpp.o: \
  /usr/include/c++/12.2.0/bits/chrono.h /usr/include/c++/12.2.0/ratio \
  /usr/include/c++/12.2.0/limits /usr/include/c++/12.2.0/ctime \
  /usr/include/c++/12.2.0/bits/parse_numbers.h \
+ /usr/include/c++/12.2.0/fstream /usr/include/c++/12.2.0/bits/codecvt.h \
+ /usr/include/c++/12.2.0/x86_64-pc-linux-gnu/bits/basic_file.h \
+ /usr/include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++io.h \
+ /usr/include/c++/12.2.0/bits/fstream.tcc \
  /home/marta/Documents/vertexCoverAlgorithms/randomGraph.h \
  /usr/include/c++/12.2.0/random /usr/include/c++/12.2.0/cmath \
  /usr/include/math.h /usr/include/bits/math-vector.h \
@@ -227,7 +231,7 @@ CMakeFiles/vertexCoverAlgorithms.dir/main.cpp.o: \
  /usr/include/c++/12.2.0/bits/locale_facets_nonio.h \
  /usr/include/c++/12.2.0/x86_64-pc-linux-gnu/bits/time_members.h \
  /usr/include/c++/12.2.0/x86_64-pc-linux-gnu/bits/messages_members.h \
- /usr/include/libintl.h /usr/include/c++/12.2.0/bits/codecvt.h \
+ /usr/include/libintl.h \
  /usr/include/c++/12.2.0/bits/locale_facets_nonio.tcc \
  /usr/include/c++/12.2.0/bits/locale_conv.h \
  /usr/include/c++/12.2.0/iomanip \
@@ -276,10 +280,7 @@ CMakeFiles/vertexCoverAlgorithms.dir/main.cpp.o: \
  /usr/include/c++/12.2.0/ctgmath /usr/include/c++/12.2.0/cuchar \
  /usr/include/uchar.h /usr/include/c++/12.2.0/bitset \
  /usr/include/c++/12.2.0/deque /usr/include/c++/12.2.0/bits/stl_deque.h \
- /usr/include/c++/12.2.0/bits/deque.tcc /usr/include/c++/12.2.0/fstream \
- /usr/include/c++/12.2.0/x86_64-pc-linux-gnu/bits/basic_file.h \
- /usr/include/c++/12.2.0/x86_64-pc-linux-gnu/bits/c++io.h \
- /usr/include/c++/12.2.0/bits/fstream.tcc /usr/include/c++/12.2.0/list \
+ /usr/include/c++/12.2.0/bits/deque.tcc /usr/include/c++/12.2.0/list \
  /usr/include/c++/12.2.0/bits/stl_list.h \
  /usr/include/c++/12.2.0/bits/list.tcc /usr/include/c++/12.2.0/queue \
  /usr/include/c++/12.2.0/bits/stl_queue.h /usr/include/c++/12.2.0/set \
